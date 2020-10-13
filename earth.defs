@@ -1,0 +1,10 @@
+r0 (m)	   ;	200.0
+u0 (m/s)   ;	300.0
+theta0 (K) ;	1000.
+z0 (m)	   ;	0.
+n0 (g/g)   ;	0.03
+atmos	   ;	earth
+tau (s)    ;    1000000000000.
+output	   ;	/Users/psaxena1/Desktop/ExoVolcanology/LoriGlazePlumeCode/IDLPlumeCodeforPrabal/earth_r200_u300_th1000_n03.txt
+
+
