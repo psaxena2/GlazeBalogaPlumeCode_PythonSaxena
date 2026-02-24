@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18752673.svg)](https://doi.org/10.5281/zenodo.18752673)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psaxena2/GlazeBalogaPlumeCode_PythonSaxena/HEAD?labpath=VolcanicPlumeCodePython_GlazeBaloga.ipynb)
+
 # Glaze-Baloga Volcanic Plume Model: Python Implementation
 
 Python implementation of the Glaze-Baloga integral volcanic plume model for simulating buoyant rise of 4-component plumes in arbitrary planetary atmospheres.
